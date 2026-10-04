@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adrian-mutua.vercel.app/sitemap.xml
